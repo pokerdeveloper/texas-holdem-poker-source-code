@@ -1,4 +1,4 @@
-# Texas-Hold-em-Source-Code_Texas-Hold-em-Game  本倉庫包含可執行的德州撲克（Texas Hold'em）範例原始碼，包含伺服器、客戶端、示範腳本與說明。主要以 C++ / unity 開發，提供繁體與簡體文件；
+# Texas-Hold-em-Source-Code_Texas-Hold-em-Game  本倉庫包含可執行的德州撲克（Texas Hold'em）範例原始碼，包含伺服器、客戶端、示範腳本與說明。主要以  C++/uniyu+Lua 開發，提供繁體與簡體文件；
 本仓库包含可运行的德州扑克（Texas Hold'em）示例源码，包含服务端、客户端、演示脚本与说明；
 
 德州源码，德州游戏源码，德州金币大厅，德州俱乐部源码，德州现金场（现金桌），类似德州竞技者联盟，产品支持多种语言，可以上线ios。
