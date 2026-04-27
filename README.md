@@ -1,4 +1,4 @@
-# ♠️ 完整德州扑克源码 | C++/Lua | 金币场+俱乐部 | 支持iOS/Android
+# ♠️ 完整德州扑克源码 |德州源码| 金币场+俱乐部 | 支持iOS/Android
 # Real-time Multiplayer Poker Framework | 实时多人扑克系统
 
 A real-time multiplayer poker framework designed for scalable backend systems and interactive gameplay.  
