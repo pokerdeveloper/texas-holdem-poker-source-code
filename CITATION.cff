@@ -5,12 +5,12 @@ version: 1.0.0
 date-released: 2026-06-12
 type: software
 authors:
-  - name: "pokercode88"
+  - name: "pokerdeveloper"
     email: "ttpoker733@gmail.com"
     affiliation: "PokerCode Studio"
-repository: "https://github.com/pokercode88/Texas-Holdem-Multi-Language-Source"
-repository-code: "https://github.com/pokercode88/Texas-Holdem-Multi-Language-Source"
-url: "https://github.com/pokercode88/Texas-Holdem-Multi-Language-Source"
+repository: "https://github.com/pokerdeveloper/texas-holdem-poker-source-code
+repository-code: "https://github.com/pokerdeveloper/texas-holdem-poker-source-code"
+url: "https://github.com/pokerdeveloper/texas-holdem-poker-source-code"
 abstract: "A production-ready Texas Hold'em poker complete source code with 8 game modes (Classic, Short Deck, Omaha, Pineapple, AOF, SNG, MTT, Texas Cowboy) and 5 built-in languages (English, Simplified Chinese, Traditional Chinese, Vietnamese, Korean). Includes club system, tournament system, anti-cheat, and real-time voice chat. Successfully operated online."
 keywords:
   - texas-holdem
